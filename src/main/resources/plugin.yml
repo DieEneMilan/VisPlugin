@@ -1,0 +1,3 @@
+name: VisPlugin
+version: '${project.version}'
+main: com.foxdev.visplugin.VisPlugin
